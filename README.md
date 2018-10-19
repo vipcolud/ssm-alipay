@@ -1,6 +1,6 @@
 # ssm-alipay
 阿里支付宝支付，包括：阿里沙箱环境支付宝测试demo，支付宝支付整合到spring+springmvc+mybatis环境，功能非常齐全，只需要修改对应的配置文件即可，帮助文档齐全！:sunny::sunny::sunny::sunny::sunny::sunny:
-[原文](http://belongapp.fun/2018/10/19/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%95%B4%E5%90%88%E5%88%B0spring+springmvc+mybatis%E7%8E%AF%E5%A2%83/)
+[原文](http://belongapp.fun/2018/10/19/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%95%B4%E5%90%88%E5%88%B0spring+springmvc+mybatis%E7%8E%AF%E5%A2%83/) 
 
 ## 环境准备:star::star::star:
 ### 一、支付宝测试环境代码测试
@@ -429,6 +429,7 @@ service
 [原文](http://belongapp.fun/2018/10/19/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%95%B4%E5%90%88%E5%88%B0spring+springmvc+mybatis%E7%8E%AF%E5%A2%83/)
 
 欢迎:star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+
 
 
 
